@@ -11,6 +11,7 @@ trigger:
     - main
 
 pool:
+  name: Testpool
   vmImage: 'windows-latest'
 
 variables:
